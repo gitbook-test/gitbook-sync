@@ -54,3 +54,23 @@
     </tr>
   </tbody>
 </table>
+
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>col</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[1, 2, 3]</td>
+    </tr>
+    <tr>
+      <td>[1, 2, 3]</td>
+    </tr>
+    <tr>
+      <td>[1, 2, 3]</td>
+    </tr>
+  </tbody>
+</table>
