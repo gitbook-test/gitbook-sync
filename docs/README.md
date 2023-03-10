@@ -3,7 +3,6 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>sepal_length</th>
       <th>sepal_width</th>
       <th>petal_length</th>
@@ -14,7 +13,6 @@
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
       <td>7.7</td>
       <td>3.0</td>
       <td>6.1</td>
@@ -23,7 +21,6 @@
       <td>versicolor</td>
     </tr>
     <tr>
-      <th>1</th>
       <td>5.4</td>
       <td>3.9</td>
       <td>1.7</td>
@@ -32,7 +29,6 @@
       <td>virginica</td>
     </tr>
     <tr>
-      <th>2</th>
       <td>6.3</td>
       <td>3.3</td>
       <td>4.7</td>
@@ -41,7 +37,6 @@
       <td>setosa</td>
     </tr>
     <tr>
-      <th>3</th>
       <td>6.2</td>
       <td>3.4</td>
       <td>5.4</td>
@@ -50,7 +45,6 @@
       <td>setosa</td>
     </tr>
     <tr>
-      <th>4</th>
       <td>5.8</td>
       <td>2.7</td>
       <td>5.1</td>
