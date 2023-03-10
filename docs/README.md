@@ -1,3 +1,62 @@
 # Title
 
-<table border="1" class="dataframe">\n  <thead>\n    <tr style="text-align: right;">\n      <th></th>\n      <th>sepal_length</th>\n      <th>sepal_width</th>\n      <th>petal_length</th>\n      <th>petal_width</th>\n      <th>target</th>\n      <th>prediction</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>7.7</td>\n      <td>3.0</td>\n      <td>6.1</td>\n      <td>2.3</td>\n      <td>virginica</td>\n      <td>versicolor</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>5.4</td>\n      <td>3.9</td>\n      <td>1.7</td>\n      <td>0.4</td>\n      <td>setosa</td>\n      <td>virginica</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>6.3</td>\n      <td>3.3</td>\n      <td>4.7</td>\n      <td>1.6</td>\n      <td>versicolor</td>\n      <td>setosa</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>6.2</td>\n      <td>3.4</td>\n      <td>5.4</td>\n      <td>2.3</td>\n      <td>virginica</td>\n      <td>setosa</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5.8</td>\n      <td>2.7</td>\n      <td>5.1</td>\n      <td>1.9</td>\n      <td>virginica</td>\n      <td>virginica</td>\n    </tr>\n  </tbody>\n</table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>sepal_length</th>
+      <th>sepal_width</th>
+      <th>petal_length</th>
+      <th>petal_width</th>
+      <th>target</th>
+      <th>prediction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>7.7</td>
+      <td>3.0</td>
+      <td>6.1</td>
+      <td>2.3</td>
+      <td>virginica</td>
+      <td>versicolor</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>5.4</td>
+      <td>3.9</td>
+      <td>1.7</td>
+      <td>0.4</td>
+      <td>setosa</td>
+      <td>virginica</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>6.3</td>
+      <td>3.3</td>
+      <td>4.7</td>
+      <td>1.6</td>
+      <td>versicolor</td>
+      <td>setosa</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>6.2</td>
+      <td>3.4</td>
+      <td>5.4</td>
+      <td>2.3</td>
+      <td>virginica</td>
+      <td>setosa</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>5.8</td>
+      <td>2.7</td>
+      <td>5.1</td>
+      <td>1.9</td>
+      <td>virginica</td>
+      <td>virginica</td>
+    </tr>
+  </tbody>
+</table>
